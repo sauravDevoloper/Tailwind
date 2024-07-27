@@ -12,7 +12,7 @@ const TeamSection = () => {
     <div className="flex flex-wrap -m-2">
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p1.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p1.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Holden Caulfield</h2>
             <p className="text-TextColor">UI Designer</p>
@@ -21,7 +21,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p2.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p2.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Henry Letham</h2>
             <p className="text-text-TextColor">CTO</p>
@@ -30,7 +30,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p3.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p3.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Oskar Blinde</h2>
             <p className="text-TextColor">Founder</p>
@@ -39,7 +39,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p4.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p4.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">John Doe</h2>
             <p className="text-TextColor">DevOps</p>
@@ -48,7 +48,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p5.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p5.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Martin Eden</h2>
             <p className="text-TextColor">Software Engineer</p>
@@ -57,7 +57,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p6.jpg" />
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p6.jpg" />
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Boris Kitua</h2>
             <p className="text-TextColor">UX Researcher</p>
@@ -66,7 +66,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p7.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p7.jpg"/>
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Atticus Finch</h2>
             <p className="text-TextColor">QA Engineer</p>
@@ -75,7 +75,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p8.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p8.jpg"/>
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Alper Kamu</h2>
             <p className="text-TextColor">System</p>
@@ -84,7 +84,7 @@ const TeamSection = () => {
       </div>
       <div className="p-2 lg:w-1/3 md:w-1/2 w-full">
         <div className="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/public/assets/p9.jpg"/>
+          <img alt="team" className="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/p9.jpg"/>
           <div className="flex-grow">
             <h2 className="text-TextColor title-font font-medium">Rodrigo Monchi</h2>
             <p className="text-TextColor">Product Manager</p>

@@ -12,7 +12,7 @@ const HoverSection = () => {
     <div className="flex flex-wrap -m-4">
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h1.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h1.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">Shooting Stars</h1>
@@ -22,7 +22,7 @@ const HoverSection = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h2.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h2.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">The Catalyzer</h1>
@@ -32,7 +32,7 @@ const HoverSection = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h3.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h3.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">The 400 Blows</h1>
@@ -42,7 +42,7 @@ const HoverSection = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h4.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h4.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">Neptune</h1>
@@ -52,7 +52,7 @@ const HoverSection = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h5.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h5.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">Holden Caulfield</h1>
@@ -62,7 +62,7 @@ const HoverSection = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="/public/assets/h6.jpg"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="assets/h6.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-BgColor opacity-0 hover:opacity-100">
             <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">THE SUBTITLE</h2>
             <h1 className="title-font text-lg font-medium text-TextColor mb-3">Alper Kamu</h1>

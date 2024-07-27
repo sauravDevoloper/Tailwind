@@ -15,9 +15,10 @@ const HeroSection = () => {
         <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Button</button>
       </div>
     </div>
-    <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img className="object-cover object-center rounded" alt="hero" src="https://w7.pngwing.com/pngs/635/1022/png-transparent-blue-ceramic-bowl-with-ice-cream-in-it-chocolate-ice-cream-milkshake-ice-cream-cone-ice-cream-free-cream-food-free-logo-design-template-thumbnail.png"/>
-    </div>
+    <div className="">
+      <img src="assets/child.png" alt="child" />
+   </div>
+   
   </div>
 </section>
     </section>

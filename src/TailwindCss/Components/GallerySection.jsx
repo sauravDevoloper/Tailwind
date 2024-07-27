@@ -8,7 +8,7 @@ const GallerySection = () => {
     <div className="flex flex-wrap -m-4">
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g1.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g1.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -18,7 +18,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g9.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g9.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -28,7 +28,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g3.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g3.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -38,7 +38,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g4.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g4.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -48,7 +48,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g5.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g5.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -58,7 +58,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g6.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g6.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -68,7 +68,7 @@ const GallerySection = () => {
       </div>
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g7.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g7.jpg"/>
         </a>
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
@@ -80,7 +80,7 @@ const GallerySection = () => {
       
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
         <a className="block relative h-48 rounded overflow-hidden">
-          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/public/assets/g8.jpg"/>
+          <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="assets/g8.jpg"/>
         </a>Name
         <div className="mt-4">
           <h3 className=" text-xs tracking-widest title-font mb-1 text-TextColor">CATEGORY</h3>
