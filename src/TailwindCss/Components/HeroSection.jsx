@@ -16,7 +16,7 @@ const HeroSection = () => {
       </div>
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img className="object-cover object-center rounded" alt="hero" src="/public/assets/icecream.png"/>
+      <img className="object-cover object-center rounded" alt="hero" src="https://w7.pngwing.com/pngs/635/1022/png-transparent-blue-ceramic-bowl-with-ice-cream-in-it-chocolate-ice-cream-milkshake-ice-cream-cone-ice-cream-free-cream-food-free-logo-design-template-thumbnail.png"/>
     </div>
   </div>
 </section>
